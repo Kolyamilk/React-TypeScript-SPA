@@ -1,7 +1,14 @@
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Используемый Стек: 
+### `React JS`
+### `TypeScript`
+### `Tailwind.css`
+### `React-router`
 ## Available Scripts
 
 In the project directory, you can run:
