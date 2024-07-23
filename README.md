@@ -5,7 +5,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Используемый Стек: 
-### `React JS`
+### `React JS2`
 ### `TypeScript`
 ### `Tailwind.css`
 ### `React-router`
